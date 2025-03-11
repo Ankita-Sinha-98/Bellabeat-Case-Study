@@ -1,6 +1,6 @@
 # Bellabeat-Case-Study
 
-The pdf document contains all the steps of the Data Analysis process, based on the case study for Bellabeat Welness Company. 
+The Bellabeat Case Study.pdf document contains all the steps of the Data Analysis process, based on the case study for Bellabeat Welness Company. 
 It contains data cleaning, processing, manipulation and analysis using SQL and Google Sheets,
 and in the end it explores actionable insights along with Data Visualizations.
 
